@@ -9,7 +9,7 @@ This project aims to implement and analyze the performance of clustering techniq
 - **Clustering Algorithms**: Detailed implementation of K-Means clustering technique on diferent technical indicators like RSI,ATR along with application of predefined centroids to segment S&P 500 stocks based on historical performance,liquidity and price movement patterns.
 - **Trading Strategy**: Development of a rule-based trading strategy leveraging the clusters to make predictions about future price movements.
 - **Portfolio Optimisation**:Using Portfolio Optimisation techniques to calculate ideal weights for stocks.
-- 
+  
 ## Getting Started
 
 Please download the Jupyter Notebook and run through the notebook to replicate the results.
