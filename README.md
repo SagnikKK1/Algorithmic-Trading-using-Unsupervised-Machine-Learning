@@ -24,6 +24,7 @@ List all libraries and tools needed to run the project:
 ### Results
 
 The project includes a detailed analysis with visualizations of the strategy's performance and comparison with the S&P 500 benchmark. The results are promising and can be converted into a product in the future with further improvements.
+#![Returns](Results.png)
 
 
 
